@@ -1,5 +1,5 @@
 {
-  "name": "ratem",
+  "name": "Ratem",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,5 +13,18 @@
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "description": "An app for rating instructors",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelizzaP/ratem.git"
+  },
+  "author": "Melizza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelizzaP/ratem/issues"
+  },
+  "homepage": "https://github.com/MelizzaP/ratem"
 }
